@@ -10,7 +10,7 @@ warnings.filterwarnings("ignore")
 
 candidates = ["A", "B", "C", "D"]
 num_voters = 100
-num_simulations = 500
+num_simulations = 1000
 
 # ─── Generación de votos ───────────────────────────────────────────────────────
 
